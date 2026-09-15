@@ -11,7 +11,7 @@ export function SobreMi() {
         <div className="relative min-h-130 overflow-hidden rounded-tarjeta">
           <Image
             src="/imagenes/sobre-mi-entrenador.avif"
-            alt={`${profesor.nombre}, entrenador personal`}
+            alt="Fer Bertero, entrenador personal en Córdoba"
             fill
             className="object-cover grayscale transition duration-700 hover:grayscale-0"
             sizes="(min-width:768px) 50vw, 100vw"

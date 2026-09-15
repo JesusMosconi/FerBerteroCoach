@@ -46,7 +46,7 @@ export function Contacto() {
         <div className="relative h-100 overflow-hidden rounded-tarjeta md:h-150">
           <Image
             src="/imagenes/entrenador-contacto.jpg"
-            alt="Entrenador personal en el gimnasio"
+            alt="Fer Bertero, entrenador personal en Córdoba, en el gimnasio"
             fill
             className="object-cover"
             sizes="(min-width:768px) 50vw, 100vw"
