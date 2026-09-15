@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
+import { SITE_URL } from "@/lib/config";
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: "*", allow: "/" },
-    sitemap: "https://ferbertero-coach.vercel.app/sitemap.xml", // TODO: mismo dominio que en sitemap.ts
+    sitemap: `${SITE_URL}/sitemap.xml`,
   };
 }
