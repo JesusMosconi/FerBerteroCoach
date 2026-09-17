@@ -36,7 +36,7 @@ export function Planes() {
                 7 DÍAS GRATIS
               </h3>
               <p className="mt-3 font-titulos text-2xl leading-tight tracking-wide text-texto">
-                ENTRENAMIENTO GRUPAL GUIADO
+                ENTRENAMIENTO GUIADO
               </p>
               <p className="mt-2 text-texto-secundario">Probá mi metodología sin costo</p>
             </div>

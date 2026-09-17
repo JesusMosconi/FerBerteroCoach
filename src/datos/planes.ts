@@ -4,7 +4,7 @@ export const planes: Plan[] = [
   {
     id: "reto-21-dias",
     nombre: "RETO 21 DÍAS",
-    subtitulo: "Entrenamiento grupal guiado",
+    subtitulo: "Entrenamiento guiado",
     descripcion: "Creá el hábito de entrenar por solo",
     precio: 30000,
     moneda: "ARS",

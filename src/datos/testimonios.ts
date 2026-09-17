@@ -59,4 +59,18 @@ export const testimonios: Testimonio[] = [
     comentario:
       "Desde que entreno con Fer, no me volvieron a dar ganas de faltar a un entrenamiento. Mezcla perfectamente la exigencia con el humor. En poco tiempo ya estoy notando un cambio enorme, no solamente en lo físico, sino también en mis hábitos. Me siento más sano, más alegre y más productivo. Y lo mejor es que la constancia del entrenamiento no se vuelve pesada, porque con Fer uno termina divirtiéndose.",
   },
+  {
+    id: "6",
+    nombre: "Patricia Tobis",
+    usuario: "patritobis",
+    linkUsuario: "https://www.instagram.com/patritobis/",
+    foto: "/imagenes/testimonios/patricia-tobis-perfil.jpg",
+    posicionImagen: "top",
+    comentario:
+      "Mi experiencia con Fer fue excelente. Considero que soy una persona bastante quejosa, enojona, y él como profe ha sabido llevar todo el proceso del entrenamiento muy bien, comprendiendo cada estado emocional y, a partir de ahí, guiándome con los ejercicios. Creo que más allá de lo estético, es importante también el trato, la atención y dedicación. Fer es una persona muy divertida, atento y bastante exigente. Busca siempre que des lo mejor, y él nota eso en las personas: hasta dónde podemos llegar y cuánto más podemos dar. Creo que con él hice más o menos 8 planes distintos, y siempre se enfocó en mis objetivos. Organizó cada plan con su mirada, pero sin dejar de lado mis pedidos. Volvería a entrenar mil veces con él.",
+    resultado: {
+      tipo: "foto",
+      imagen: "/imagenes/testimonios/patricia-tobis-resultado.jpeg",
+    },
+  },
 ];
